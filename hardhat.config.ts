@@ -13,6 +13,7 @@ const config: HardhatUserConfig = {
   },
   namedAccounts: {
     deployer: 0,
+    proxyOwner: '0x98E4b4e991947425F888198c8E11ECC2C977eCAB',
   },
   networks: {
     hardhat: {
